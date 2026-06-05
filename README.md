@@ -123,7 +123,7 @@ Tablolar:
 * odeme_yontemi
 
 ### ER Diyagramı görseli
-![ER Diyagramı](assets/er_diyagrami.png)
+![ER Diyagramı](assets/erdiyagrami.png)
 ---
 
 ## 7. Genel Yapı
